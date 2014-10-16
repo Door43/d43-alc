@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[alc:home|Door43 (alc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-alc|d43-alc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-alc/archive/master.zip|d43-alc.zip]]
+
+**Recent Changes**
+{{changes>ns = alc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/alc|Ethnologue data]]
+
